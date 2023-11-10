@@ -8,8 +8,8 @@
 ```
 git clone https://github.com/HACKY-TALKY-2-2/Team14.git
 cd team14
-yarn install
-yarn start
+pnpm install
+pnpm start
 ```
 
 ### `npm start`
