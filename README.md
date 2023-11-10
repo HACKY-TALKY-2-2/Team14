@@ -5,7 +5,12 @@
 
 ## 시작하기
 
-
+```
+git clone https://github.com/HACKY-TALKY-2-2/Team14.git
+cd team14
+yarn install
+yarn start
+```
 
 ### `npm start`
 
